@@ -1,5 +1,6 @@
 """Inserting at the start of LinkedList."""
 
+
 class Node():
     """Creating a node."""
     def __init__(self, data):
